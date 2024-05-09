@@ -7,3 +7,7 @@ Introductory Projects:
 <li> DataFrames practice: working with English Word
 <li> Filtering and Sorting Pokemon Data
 <li> The Birthday Paradox in the NBA
+
+Data Cleaning Projects:
+<li> Matching Strings by Similarity using Levenshtein distance
+<li> Cleaning Google Playstore data
