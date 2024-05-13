@@ -11,3 +11,7 @@ Introductory Projects:
 Data Cleaning Projects:
 <li> Matching Strings by Similarity using Levenshtein distance
 <li> Cleaning Google Playstore data
+
+Data Wrangling Projects:
+<li> Analyzing Premier League match results by combining DataFrames
+<li> Capstone Project: NBA 2017 season analysis
